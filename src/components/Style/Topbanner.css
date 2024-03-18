@@ -22,16 +22,18 @@
     padding: 20px 50px;
 }
 .top-heading-l h1{
-    font-size: 3.5rem;
-    width: 130%;
+    font-size: 4rem;
+    width: 150%;
+    margin-top: 100px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
 .top-heading-l p{
     margin-top: 30px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 24px;
-    font-size: 13px;
+    width: 120%;
+    font-size: 1rem;
 }
 .btn{
     width: fit-content;
