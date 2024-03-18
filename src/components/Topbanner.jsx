@@ -20,7 +20,7 @@ const Topbanner = () => {
                         <span>Plans</span>
                     </div>
                 </nav>
-
+{/* top  bannner */}
                 <div className="topb-container">
                     <div className="top-heading-l">
                         <h1>WELCOME TO OUR AI AGENCY</h1>
