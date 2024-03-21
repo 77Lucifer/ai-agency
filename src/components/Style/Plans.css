@@ -1,0 +1,38 @@
+.Plan-main{
+    width: 100%;
+    height: fit-content;
+    background: linear-gradient(to right, #000000 20%, #4d4d4d); 
+}
+.plan-container{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding: 50px;
+}
+.plan-container h1{
+    font-size: 6rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.plan-container h1 span{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+.plan-container p{
+    font-size: 1.5rem;
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+    color: whitesmoke;
+    margin-top: 50px;
+}
+.plan-container img{
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+}

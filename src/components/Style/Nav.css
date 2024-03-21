@@ -5,6 +5,7 @@ nav{
     align-items: center;
     padding: 20px 40px;    
     color: whitesmoke;
+    z-index: 999;
 }
 
 .nav-l{
@@ -21,14 +22,20 @@ nav{
     display: flex;
     justify-content: space-between;
     gap: 0px;
-    width: 30%;
+    width: 40%;
     font-size: 1.3rem;
 }
 .nav-r span{
     cursor: pointer;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* color: brown; */
 }
 .nav-r span:hover{
     color: brown;
-    transition: all ease 0.5s;
+    transition: 0.5s ease all;
 }
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+

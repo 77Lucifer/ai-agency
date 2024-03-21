@@ -3,3 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+#root{
+    background: linear-gradient(to right, #000000 20%, #4d4d4d); 
+
+}
