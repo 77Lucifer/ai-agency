@@ -1,9 +1,9 @@
 import React from 'react'
 // import './Style/Nav.css'
 import './Style/Home.css'
-import logo from '../images/exlogo.png'
-import redai from '../images/redai.png'
-import img2 from '../images/aboutai.png'
+import logo from '../../public/images/exlogo.png'
+import redai from '../../public/images/redai.png'
+import img2 from '../../public/images/aboutai.png'
 import Nav from './Nav'
 
 

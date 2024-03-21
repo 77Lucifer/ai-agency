@@ -1,7 +1,7 @@
 import React from 'react'
 import '../components/Style/Plans.css'
 import Nav from './Nav'
-import img3 from '../images/ai3.jpg'
+import img3 from '../../public/images/ai3.jpg'
 
 function Plans() {
   return (

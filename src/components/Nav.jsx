@@ -1,6 +1,6 @@
 import React from 'react'
 import './Style/Nav.css'
-import logo from '../images/exlogo.png'
+import logo from '../../public/images/exlogo.png'
 import { Link } from 'react-router-dom'
 const Nav = () => {
   return (

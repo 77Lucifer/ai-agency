@@ -61,7 +61,7 @@ p{
 .top-heading-r{
     width: 60%;
     height: 120%;
-    background-image: url(/src/images/redai.png);
+    background-image: url(/public/images/redai.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 30%;
