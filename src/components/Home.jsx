@@ -14,7 +14,7 @@ const Topbanner = () => {
                 <div className='innerfc'>    <Nav/>
                 <div className="topb-main">
                     {/* top  bannner */}
-                    {/* <svg className='ltop-wave' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#4A83C8" fill-opacity="1" d="M0,256L30,245.3C60,235,120,213,180,192C240,171,300,149,360,138.7C420,128,480,128,540,138.7C600,149,660,171,720,176C780,181,840,171,900,192C960,213,1020,267,1080,293.3C1140,320,1200,320,1260,304C1320,288,1380,256,1410,240L1440,224L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path></svg> */}
+                    <svg className='ltop-wave' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#4A83C8" fill-opacity="1" d="M0,256L30,245.3C60,235,120,213,180,192C240,171,300,149,360,138.7C420,128,480,128,540,138.7C600,149,660,171,720,176C780,181,840,171,900,192C960,213,1020,267,1080,293.3C1140,320,1200,320,1260,304C1320,288,1380,256,1410,240L1440,224L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path></svg>
                     <div className="topb-container">
                         <div className="top-heading-l">
                             <h1>WELCOME TO OUR <br /><span>AI AGENCY</span></h1>
@@ -39,9 +39,9 @@ const Topbanner = () => {
                 <div id='about' className="about-banner">
                     <h1><span>About</span> Us</h1>
                     <div className="about-container">
-                        <div className="about-l">
+                        {/* <div className="about-l">
                             <img src={img2} alt="" />
-                        </div>
+                        </div> */}
                         <div className="about-r">
                             <p>Welcome to Money with AI, where we specialize in cutting-edge AI solutions to empower businesses. Our mission is to optimize systems and drive results through AI technology.
                             </p>
