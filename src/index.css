@@ -3,7 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'Mona-SansBold';
+    src: url(./components/Fonts/Mona-Sans-ExtraBold.woff);
+}
 #root{
-    background: linear-gradient(to right, #000000 20%, #4d4d4d); 
+    /* background: linear-gradient(to right, #000000 20%, #4d4d4d);  */
+    /* background: linear-gradient(to right,#2B3596,#3DC7ED ,yellow);  */
+  
 
 }

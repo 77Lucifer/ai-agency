@@ -1,11 +1,13 @@
 nav{
-    width: 100%;
+    width: 85%;
     display: flex;
     justify-content: space-between;
+    margin: 0 auto;
     align-items: center;
     padding: 20px 40px;    
     color: whitesmoke;
     z-index: 999;
+    
 }
 
 .nav-l{
@@ -22,7 +24,7 @@ nav{
     display: flex;
     justify-content: space-between;
     gap: 0px;
-    width: 40%;
+    width: 50%;
     font-size: 1.3rem;
 }
 .nav-r span{

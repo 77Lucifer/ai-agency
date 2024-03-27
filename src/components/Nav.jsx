@@ -14,7 +14,7 @@ const Nav = () => {
           <a href="/#about">  <span>About</span> </a>
            <a href="/#service"> <span>Services</span></a>
             <Link to='/Plans'><span>Plans</span> </Link>
-            <Link to='/Contact'> <span>Conatact</span></Link>
+            <Link to='/Contact'> <span>Contact</span></Link>
         </div>
       </nav>
     </>
